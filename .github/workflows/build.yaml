@@ -6,7 +6,7 @@ on:
         description: "The Emby server version (e.g., 4.8.11.0)."
         type: string
         required: true
-        default: 4.8.11.0
+        default: 4.9.3.0
       EMBY_REPLACEMENT_URL:
         description: >-
           URL for Emby's server replacement. Must starts with 'http' and end with '/'.
